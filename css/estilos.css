@@ -1,0 +1,14 @@
+.logo {
+    font-family: 'Lato', 'sans-serif';
+    font-weight: 700;
+    color: #fff;
+}
+
+header .logo {
+    font-size: 70px;
+    text-shadow: 4px 3px 0px rgba(0, 142, 214, 0.9), 9px 8px 0px rgba(0, 0, 0, 0.15);
+}
+
+footer .logo {
+    font-size: 30px;
+}
