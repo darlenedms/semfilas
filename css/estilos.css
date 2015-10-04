@@ -18,3 +18,7 @@ footer .logo {
     margin-top: 10px;
     font-size: 30px;
 }
+
+header .intro-section .buttons {
+    margin-bottom: 35px;
+}
