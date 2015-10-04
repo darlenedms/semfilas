@@ -7,9 +7,14 @@
 header .logo {
     font-size: 70px;
     text-shadow: 4px 3px 0px rgba(0, 142, 214, 0.9), 9px 8px 0px rgba(0, 0, 0, 0.15);
+    margin-top: 20px;
+}
+
+footer .logo-container {
+    margin-top: 30px;
 }
 
 footer .logo {
-    margin-top: 60px;
+    margin-top: 10px;
     font-size: 30px;
 }
